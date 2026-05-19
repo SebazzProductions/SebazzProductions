@@ -13,14 +13,14 @@ user's phone. No cloud roundtrip, no telemetry, no account required.
 
 ---
 
-## Three-Domain Ecosystem
+## Quadro-Domain Ecosystem
 
 | Domain | Role | Stack |
 |---|---|---|
 | [**alessja.app**](https://alessja.app) | Product: Alessja Spark — Android on-device AI companion | React Native · Expo SDK 54 · TypeScript · llama.rn · Qwen 3.5 · RevenueCat · Notifee |
 | [**sebazzproductions.com**](https://sebazzproductions.com) | Studio: tech portfolio · indie projects · creative technology | Vue 3.5 · Vite · Tailwind v4 · Cloudflare Pages |
 | [**sebastianrau.net**](https://sebastianrau.net) | Personal hub: Developer · Independent Researcher · Mentor | Next.js 16 · Tailwind v4 · Vercel |
-
+| [**synthopiascale.com**](https://synthopiascale.com) | An artists Collective · Independent Sound · Mentor | Next.js 16 · Three.js Audio Visualization and animation · Music Player · Vercel |
 ---
 
 ## What I'm working on
