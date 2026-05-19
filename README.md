@@ -4,6 +4,23 @@
 On-device AI · Solo-built · DSGVO by architecture
 ```
 
+## 🚀 Now Shipping — Alessja Spark v1.9.2
+
+**The AI companion that runs entirely on your Android device.**
+
+- 🌍 Live on Google Play since **2026-05-19** — worldwide (176 countries)
+- 🧠 On-device LLM inference via `llama.rn` with Qwen 3.5 (2B / 4B GGUF)
+- 🔒 No cloud chat, no telemetry SDKs, no account required
+- 🇪🇺 DSGVO-by-architecture — not just compliance
+- 💬 Chat is free, unlimited, offline — forever
+
+→ **[Get on Google Play](https://play.google.com/store/apps/details?id=com.sebazzproductions.alessja)**  
+→ **[alessja.app](https://alessja.app)** · [Press-Kit](https://alessja.app/press-kit/)
+
+8 months solo-dev. 30 iterations. No VC. No team. Two peer-reviewed Zenodo publications as research foundation.
+
+---
+
 I build indie software with a research foundation: shipping products, doing
 the engineering, writing the docs, holding the legal weight myself.
 
