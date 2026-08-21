@@ -17,7 +17,7 @@ On-device AI · Solo-built · DSGVO by architecture
 → **[Get on Google Play](https://play.google.com/store/apps/details?id=com.sebazzproductions.alessja)**  
 → **[alessja.app](https://alessja.app)** · [Press-Kit](https://alessja.app/press-kit/)
 
-8 months solo-dev. 30 iterations. No VC. No team. Two peer-reviewed Zenodo publications as research foundation.
+8 months solo-dev. 30 iterations. No VC. No team. Two Zenodo publications as research foundation.
 
 ---
 
@@ -30,12 +30,11 @@ user's phone. No cloud roundtrip, no telemetry, no account required.
 
 ---
 
-## Quadro-Domain Ecosystem
+## Domains
 
 | Domain | Role | Stack |
 |---|---|---|
 | [**alessja.app**](https://alessja.app) | Product: Alessja Spark — Android on-device AI companion | React Native · Expo SDK 54 · TypeScript · llama.rn · Qwen 3.5 · RevenueCat · Notifee |
-| [**sebazzproductions.com**](https://sebazzproductions.com) | Studio: tech portfolio · indie projects · creative technology | Vue 3.5 · Vite · Tailwind v4 · Cloudflare Pages |
 | [**sebastianrau.net**](https://sebastianrau.net) | Personal hub: Developer · Independent Researcher · Mentor | Next.js 16 · Tailwind v4 · Vercel |
 | [**synthopiascale.com**](https://synthopiascale.com) | An artists Collective · Independent Sound · Mentor | Next.js 16 · Three.js Audio Visualization and animation · Music Player · Vercel |
 ---
@@ -83,7 +82,6 @@ user's phone. No cloud roundtrip, no telemetry, no account required.
 
 ## Contact
 
-- Studio: [sebazzproductions.com](https://sebazzproductions.com)
 - Product: [alessja.app](https://alessja.app)
 - Hub: [sebastianrau.net](https://sebastianrau.net)
 - Project: [synthopiascale.com](https://synthopiascale.com)
