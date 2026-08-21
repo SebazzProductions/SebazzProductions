@@ -4,7 +4,7 @@
 On-device AI · Solo-built · DSGVO by architecture
 ```
 
-## 🚀 Now Shipping — Alessja Spark v1.9.2
+## 🚀 Now Shipping — Alessja Spark v2.0
 
 **The AI companion that runs entirely on your Android device.**
 
@@ -45,8 +45,6 @@ user's phone. No cloud roundtrip, no telemetry, no account required.
   `llama.rn` with Qwen 3.5 (2B / 4B GGUF). Chat is free, unlimited, offline,
   forever. RevenueCat for subscription extras (research-band features).
   Published on Google Play.
-- **Sebazz Productions** — studio / portfolio site. Multi-project surface for
-  indie tools and audio-adjacent products.
 - **Sebastian Rau (link hub)** — personal cross-discipline hub between
   engineering, research and mentoring.
 
