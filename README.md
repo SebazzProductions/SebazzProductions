@@ -4,7 +4,7 @@
 On-device AI · Solo-built · DSGVO by architecture
 ```
 
-## 🚀 Now Shipping — Alessja Spark v2.0
+## 🚀 Now Shipping — Alessja Spark Mobile Companion
 
 **The AI companion that runs entirely on your Android device.**
 
@@ -15,18 +15,14 @@ On-device AI · Solo-built · DSGVO by architecture
 - 💬 Chat is free, unlimited, offline — forever
 
 → **[Get on Google Play](https://play.google.com/store/apps/details?id=com.sebazzproductions.alessja)**  
-→ **[alessja.app](https://alessja.app)** · [Press-Kit](https://alessja.app/press-kit/)
+→ **[alessja.app](https://alessja.app)**
 
-8 months solo-dev. 30 iterations. No VC. No team. Two Zenodo publications as research foundation.
+Solo-dev. No VC. No team. Two Zenodo publications as research foundation.
 
 ---
 
 I build indie software with a research foundation: shipping products, doing
 the engineering, writing the docs, holding the legal weight myself.
-
-Currently shipping **[Alessja Spark](https://alessja.app)** — an on-device
-AI companion for Android where the language model runs entirely on the
-user's phone. No cloud roundtrip, no telemetry, no account required.
 
 ---
 
